@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Bike",
+        "description": "'Enjoy bike ride with experienced drivers.'",
+        "imgUrl":"https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YmlrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "capacity": 1,
+        "price": 119,
+        "id": 1
+    },
+    {
+     
+        "imgUrl":"https://media.istockphoto.com/photos/illustration-of-generic-compact-white-car-front-side-view-picture-id1150931120?k=6&m=1150931120&s=612x612&w=0&h=ROHOV8PJH0X3A0VP3CQq3zTLQvn78tBnk8jVR7L1vX8=",
+        "title": "car",
+        "description": "'Enjoy bike ride with experienced drivers.'",
+        "capacity": 4,
+        "price": 119,
+        "id": 2
+    },
+    {
+      
+        "imgUrl": "https://www.uttaramotorsltd.com/wp-content/uploads/2015/12/LT-Bus.png" ,
+        "title": "Bus",
+        "description": "'Enjoy bike ride with experienced drivers.'",
+        "capacity": 10,
+        "price": 119,
+        "id": 3
+    },
+    {
+
+        "imgUrl": "https://s3.india.com/wp-content/uploads/2021/01/mumbai-local-train.jpg",
+        "title": "train",
+        "description": "'Enjoy bike ride with experienced drivers.'",
+        "capacity": 20,
+        "id": 4,
+        "price": 119
+        
+    }
+]
